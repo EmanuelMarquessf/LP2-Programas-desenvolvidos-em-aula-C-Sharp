@@ -1,0 +1,7 @@
+C:\Users\nelph\OneDrive\Documentos\ADS\4 Semestre\LPL2\Aula 2 -- Tipos\ExerciciosURI\ExerciciosURI\obj\Debug\ExerciciosURI.csproj.AssemblyReference.cache
+C:\Users\nelph\OneDrive\Documentos\ADS\4 Semestre\LPL2\Aula 2 -- Tipos\ExerciciosURI\ExerciciosURI\obj\Debug\ExerciciosURI.csproj.CoreCompileInputs.cache
+C:\Users\nelph\OneDrive\Documentos\ADS\4 Semestre\LPL2\Aula 2 -- Tipos\ExerciciosURI\ExerciciosURI\bin\Debug\ExerciciosURI.exe.config
+C:\Users\nelph\OneDrive\Documentos\ADS\4 Semestre\LPL2\Aula 2 -- Tipos\ExerciciosURI\ExerciciosURI\bin\Debug\ExerciciosURI.exe
+C:\Users\nelph\OneDrive\Documentos\ADS\4 Semestre\LPL2\Aula 2 -- Tipos\ExerciciosURI\ExerciciosURI\bin\Debug\ExerciciosURI.pdb
+C:\Users\nelph\OneDrive\Documentos\ADS\4 Semestre\LPL2\Aula 2 -- Tipos\ExerciciosURI\ExerciciosURI\obj\Debug\ExerciciosURI.exe
+C:\Users\nelph\OneDrive\Documentos\ADS\4 Semestre\LPL2\Aula 2 -- Tipos\ExerciciosURI\ExerciciosURI\obj\Debug\ExerciciosURI.pdb

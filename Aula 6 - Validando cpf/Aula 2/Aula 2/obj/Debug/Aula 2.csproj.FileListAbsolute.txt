@@ -1,0 +1,7 @@
+C:\Users\nelph\OneDrive\Documentos\ADS\4 Semestre\LPL2\Aula 2\Aula 2\Aula 2\obj\Debug\Aula 2.csproj.AssemblyReference.cache
+C:\Users\nelph\OneDrive\Documentos\ADS\4 Semestre\LPL2\Aula 2\Aula 2\Aula 2\obj\Debug\Aula 2.csproj.CoreCompileInputs.cache
+C:\Users\nelph\OneDrive\Documentos\ADS\4 Semestre\LPL2\Aula 2\Aula 2\Aula 2\bin\Debug\Aula 2.exe.config
+C:\Users\nelph\OneDrive\Documentos\ADS\4 Semestre\LPL2\Aula 2\Aula 2\Aula 2\bin\Debug\Aula 2.exe
+C:\Users\nelph\OneDrive\Documentos\ADS\4 Semestre\LPL2\Aula 2\Aula 2\Aula 2\bin\Debug\Aula 2.pdb
+C:\Users\nelph\OneDrive\Documentos\ADS\4 Semestre\LPL2\Aula 2\Aula 2\Aula 2\obj\Debug\Aula 2.exe
+C:\Users\nelph\OneDrive\Documentos\ADS\4 Semestre\LPL2\Aula 2\Aula 2\Aula 2\obj\Debug\Aula 2.pdb

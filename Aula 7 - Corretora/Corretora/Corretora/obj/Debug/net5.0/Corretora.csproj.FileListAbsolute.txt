@@ -1,0 +1,16 @@
+C:\Users\nelph\OneDrive\Documentos\ADS\4 Semestre\LPL2\Aula 7 - Corretora\Corretora\Corretora\obj\Debug\net5.0\Corretora.csproj.AssemblyReference.cache
+C:\Users\nelph\OneDrive\Documentos\ADS\4 Semestre\LPL2\Aula 7 - Corretora\Corretora\Corretora\obj\Debug\net5.0\Corretora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nelph\OneDrive\Documentos\ADS\4 Semestre\LPL2\Aula 7 - Corretora\Corretora\Corretora\obj\Debug\net5.0\Corretora.AssemblyInfoInputs.cache
+C:\Users\nelph\OneDrive\Documentos\ADS\4 Semestre\LPL2\Aula 7 - Corretora\Corretora\Corretora\obj\Debug\net5.0\Corretora.AssemblyInfo.cs
+C:\Users\nelph\OneDrive\Documentos\ADS\4 Semestre\LPL2\Aula 7 - Corretora\Corretora\Corretora\obj\Debug\net5.0\Corretora.csproj.CoreCompileInputs.cache
+C:\Users\nelph\OneDrive\Documentos\ADS\4 Semestre\LPL2\Aula 7 - Corretora\Corretora\Corretora\bin\Debug\net5.0\Corretora.exe
+C:\Users\nelph\OneDrive\Documentos\ADS\4 Semestre\LPL2\Aula 7 - Corretora\Corretora\Corretora\bin\Debug\net5.0\Corretora.deps.json
+C:\Users\nelph\OneDrive\Documentos\ADS\4 Semestre\LPL2\Aula 7 - Corretora\Corretora\Corretora\bin\Debug\net5.0\Corretora.runtimeconfig.json
+C:\Users\nelph\OneDrive\Documentos\ADS\4 Semestre\LPL2\Aula 7 - Corretora\Corretora\Corretora\bin\Debug\net5.0\Corretora.runtimeconfig.dev.json
+C:\Users\nelph\OneDrive\Documentos\ADS\4 Semestre\LPL2\Aula 7 - Corretora\Corretora\Corretora\bin\Debug\net5.0\Corretora.dll
+C:\Users\nelph\OneDrive\Documentos\ADS\4 Semestre\LPL2\Aula 7 - Corretora\Corretora\Corretora\bin\Debug\net5.0\ref\Corretora.dll
+C:\Users\nelph\OneDrive\Documentos\ADS\4 Semestre\LPL2\Aula 7 - Corretora\Corretora\Corretora\bin\Debug\net5.0\Corretora.pdb
+C:\Users\nelph\OneDrive\Documentos\ADS\4 Semestre\LPL2\Aula 7 - Corretora\Corretora\Corretora\obj\Debug\net5.0\Corretora.dll
+C:\Users\nelph\OneDrive\Documentos\ADS\4 Semestre\LPL2\Aula 7 - Corretora\Corretora\Corretora\obj\Debug\net5.0\ref\Corretora.dll
+C:\Users\nelph\OneDrive\Documentos\ADS\4 Semestre\LPL2\Aula 7 - Corretora\Corretora\Corretora\obj\Debug\net5.0\Corretora.pdb
+C:\Users\nelph\OneDrive\Documentos\ADS\4 Semestre\LPL2\Aula 7 - Corretora\Corretora\Corretora\obj\Debug\net5.0\Corretora.genruntimeconfig.cache

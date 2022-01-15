@@ -1,0 +1,58 @@
+C:\Users\nelph\OneDrive\Documentos\ADS\4 Semestre\LPL2\WinFORM\PontoDeVenda\PontoDeVenda\bin\Debug\net5.0-windows\PontoDeVenda.exe
+C:\Users\nelph\OneDrive\Documentos\ADS\4 Semestre\LPL2\WinFORM\PontoDeVenda\PontoDeVenda\bin\Debug\net5.0-windows\PontoDeVenda.deps.json
+C:\Users\nelph\OneDrive\Documentos\ADS\4 Semestre\LPL2\WinFORM\PontoDeVenda\PontoDeVenda\bin\Debug\net5.0-windows\PontoDeVenda.runtimeconfig.json
+C:\Users\nelph\OneDrive\Documentos\ADS\4 Semestre\LPL2\WinFORM\PontoDeVenda\PontoDeVenda\bin\Debug\net5.0-windows\PontoDeVenda.runtimeconfig.dev.json
+C:\Users\nelph\OneDrive\Documentos\ADS\4 Semestre\LPL2\WinFORM\PontoDeVenda\PontoDeVenda\bin\Debug\net5.0-windows\PontoDeVenda.dll
+C:\Users\nelph\OneDrive\Documentos\ADS\4 Semestre\LPL2\WinFORM\PontoDeVenda\PontoDeVenda\bin\Debug\net5.0-windows\ref\PontoDeVenda.dll
+C:\Users\nelph\OneDrive\Documentos\ADS\4 Semestre\LPL2\WinFORM\PontoDeVenda\PontoDeVenda\bin\Debug\net5.0-windows\PontoDeVenda.pdb
+C:\Users\nelph\OneDrive\Documentos\ADS\4 Semestre\LPL2\WinFORM\PontoDeVenda\PontoDeVenda\obj\Debug\net5.0-windows\PontoDeVenda.csproj.AssemblyReference.cache
+C:\Users\nelph\OneDrive\Documentos\ADS\4 Semestre\LPL2\WinFORM\PontoDeVenda\PontoDeVenda\obj\Debug\net5.0-windows\PontoDeVenda.Form1.resources
+C:\Users\nelph\OneDrive\Documentos\ADS\4 Semestre\LPL2\WinFORM\PontoDeVenda\PontoDeVenda\obj\Debug\net5.0-windows\PontoDeVenda.csproj.GenerateResource.cache
+C:\Users\nelph\OneDrive\Documentos\ADS\4 Semestre\LPL2\WinFORM\PontoDeVenda\PontoDeVenda\obj\Debug\net5.0-windows\PontoDeVenda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nelph\OneDrive\Documentos\ADS\4 Semestre\LPL2\WinFORM\PontoDeVenda\PontoDeVenda\obj\Debug\net5.0-windows\PontoDeVenda.AssemblyInfoInputs.cache
+C:\Users\nelph\OneDrive\Documentos\ADS\4 Semestre\LPL2\WinFORM\PontoDeVenda\PontoDeVenda\obj\Debug\net5.0-windows\PontoDeVenda.AssemblyInfo.cs
+C:\Users\nelph\OneDrive\Documentos\ADS\4 Semestre\LPL2\WinFORM\PontoDeVenda\PontoDeVenda\obj\Debug\net5.0-windows\PontoDeVenda.csproj.CoreCompileInputs.cache
+C:\Users\nelph\OneDrive\Documentos\ADS\4 Semestre\LPL2\WinFORM\PontoDeVenda\PontoDeVenda\obj\Debug\net5.0-windows\PontoDeVenda.dll
+C:\Users\nelph\OneDrive\Documentos\ADS\4 Semestre\LPL2\WinFORM\PontoDeVenda\PontoDeVenda\obj\Debug\net5.0-windows\ref\PontoDeVenda.dll
+C:\Users\nelph\OneDrive\Documentos\ADS\4 Semestre\LPL2\WinFORM\PontoDeVenda\PontoDeVenda\obj\Debug\net5.0-windows\PontoDeVenda.pdb
+C:\Users\nelph\OneDrive\Documentos\ADS\4 Semestre\LPL2\WinFORM\PontoDeVenda\PontoDeVenda\obj\Debug\net5.0-windows\PontoDeVenda.genruntimeconfig.cache
+C:\Users\nelph\OneDrive\Documentos\ADS\4 Semestre\LPL2\WinFORM\PontoDeVenda\PontoDeVenda\obj\Debug\net5.0-windows\PontoDeVenda.View.FrmMain.resources
+C:\Users\nelph\OneDrive\Documentos\ADS\4 Semestre\LPL2\WinFORM\PontoDeVenda\PontoDeVenda\obj\Debug\net5.0-windows\PontoDeVenda.View.FrmClient.resources
+C:\Users\nelph\OneDrive\Documentos\ADS\4 Semestre\LPL2\WinFORM\PontoDeVenda\PontoDeVenda\obj\Debug\net5.0-windows\PontoDeVenda.View.FrmCostumer.resources
+C:\Users\nelph\OneDrive\Documentos\ADS\4 Semestre\LPL2\WinFORM\PontoDeVenda\PontoDeVenda\obj\Debug\net5.0-windows\PontoDeVenda.csproj.CopyComplete
+C:\Users\nelph\OneDrive\Documentos\ADS\4 Semestre\LPL2\WinFORM\PontoDeVenda\PontoDeVenda\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\nelph\OneDrive\Documentos\ADS\4 Semestre\LPL2\WinFORM\PontoDeVenda\PontoDeVenda\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\nelph\OneDrive\Documentos\ADS\4 Semestre\LPL2\WinFORM\PontoDeVenda\PontoDeVenda\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\nelph\OneDrive\Documentos\ADS\4 Semestre\LPL2\WinFORM\PontoDeVenda\PontoDeVenda\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\nelph\OneDrive\Documentos\ADS\4 Semestre\LPL2\WinFORM\PontoDeVenda\PontoDeVenda\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nelph\OneDrive\Documentos\ADS\4 Semestre\LPL2\WinFORM\PontoDeVenda\PontoDeVenda\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nelph\OneDrive\Documentos\ADS\4 Semestre\LPL2\WinFORM\PontoDeVenda 1.1\PontoDeVenda\bin\Debug\net5.0-windows\PontoDeVenda.exe
+C:\Users\nelph\OneDrive\Documentos\ADS\4 Semestre\LPL2\WinFORM\PontoDeVenda 1.1\PontoDeVenda\bin\Debug\net5.0-windows\PontoDeVenda.deps.json
+C:\Users\nelph\OneDrive\Documentos\ADS\4 Semestre\LPL2\WinFORM\PontoDeVenda 1.1\PontoDeVenda\bin\Debug\net5.0-windows\PontoDeVenda.runtimeconfig.json
+C:\Users\nelph\OneDrive\Documentos\ADS\4 Semestre\LPL2\WinFORM\PontoDeVenda 1.1\PontoDeVenda\bin\Debug\net5.0-windows\PontoDeVenda.runtimeconfig.dev.json
+C:\Users\nelph\OneDrive\Documentos\ADS\4 Semestre\LPL2\WinFORM\PontoDeVenda 1.1\PontoDeVenda\bin\Debug\net5.0-windows\PontoDeVenda.dll
+C:\Users\nelph\OneDrive\Documentos\ADS\4 Semestre\LPL2\WinFORM\PontoDeVenda 1.1\PontoDeVenda\bin\Debug\net5.0-windows\ref\PontoDeVenda.dll
+C:\Users\nelph\OneDrive\Documentos\ADS\4 Semestre\LPL2\WinFORM\PontoDeVenda 1.1\PontoDeVenda\bin\Debug\net5.0-windows\PontoDeVenda.pdb
+C:\Users\nelph\OneDrive\Documentos\ADS\4 Semestre\LPL2\WinFORM\PontoDeVenda 1.1\PontoDeVenda\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\nelph\OneDrive\Documentos\ADS\4 Semestre\LPL2\WinFORM\PontoDeVenda 1.1\PontoDeVenda\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\nelph\OneDrive\Documentos\ADS\4 Semestre\LPL2\WinFORM\PontoDeVenda 1.1\PontoDeVenda\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\nelph\OneDrive\Documentos\ADS\4 Semestre\LPL2\WinFORM\PontoDeVenda 1.1\PontoDeVenda\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\nelph\OneDrive\Documentos\ADS\4 Semestre\LPL2\WinFORM\PontoDeVenda 1.1\PontoDeVenda\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nelph\OneDrive\Documentos\ADS\4 Semestre\LPL2\WinFORM\PontoDeVenda 1.1\PontoDeVenda\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nelph\OneDrive\Documentos\ADS\4 Semestre\LPL2\WinFORM\PontoDeVenda 1.1\PontoDeVenda\obj\Debug\net5.0-windows\PontoDeVenda.csproj.AssemblyReference.cache
+C:\Users\nelph\OneDrive\Documentos\ADS\4 Semestre\LPL2\WinFORM\PontoDeVenda 1.1\PontoDeVenda\obj\Debug\net5.0-windows\PontoDeVenda.Form1.resources
+C:\Users\nelph\OneDrive\Documentos\ADS\4 Semestre\LPL2\WinFORM\PontoDeVenda 1.1\PontoDeVenda\obj\Debug\net5.0-windows\PontoDeVenda.View.FrmClient.resources
+C:\Users\nelph\OneDrive\Documentos\ADS\4 Semestre\LPL2\WinFORM\PontoDeVenda 1.1\PontoDeVenda\obj\Debug\net5.0-windows\PontoDeVenda.View.FrmMain.resources
+C:\Users\nelph\OneDrive\Documentos\ADS\4 Semestre\LPL2\WinFORM\PontoDeVenda 1.1\PontoDeVenda\obj\Debug\net5.0-windows\PontoDeVenda.View.FrmCostumer.resources
+C:\Users\nelph\OneDrive\Documentos\ADS\4 Semestre\LPL2\WinFORM\PontoDeVenda 1.1\PontoDeVenda\obj\Debug\net5.0-windows\PontoDeVenda.csproj.GenerateResource.cache
+C:\Users\nelph\OneDrive\Documentos\ADS\4 Semestre\LPL2\WinFORM\PontoDeVenda 1.1\PontoDeVenda\obj\Debug\net5.0-windows\PontoDeVenda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nelph\OneDrive\Documentos\ADS\4 Semestre\LPL2\WinFORM\PontoDeVenda 1.1\PontoDeVenda\obj\Debug\net5.0-windows\PontoDeVenda.AssemblyInfoInputs.cache
+C:\Users\nelph\OneDrive\Documentos\ADS\4 Semestre\LPL2\WinFORM\PontoDeVenda 1.1\PontoDeVenda\obj\Debug\net5.0-windows\PontoDeVenda.AssemblyInfo.cs
+C:\Users\nelph\OneDrive\Documentos\ADS\4 Semestre\LPL2\WinFORM\PontoDeVenda 1.1\PontoDeVenda\obj\Debug\net5.0-windows\PontoDeVenda.csproj.CoreCompileInputs.cache
+C:\Users\nelph\OneDrive\Documentos\ADS\4 Semestre\LPL2\WinFORM\PontoDeVenda 1.1\PontoDeVenda\obj\Debug\net5.0-windows\PontoDeVenda.csproj.CopyComplete
+C:\Users\nelph\OneDrive\Documentos\ADS\4 Semestre\LPL2\WinFORM\PontoDeVenda 1.1\PontoDeVenda\obj\Debug\net5.0-windows\PontoDeVenda.dll
+C:\Users\nelph\OneDrive\Documentos\ADS\4 Semestre\LPL2\WinFORM\PontoDeVenda 1.1\PontoDeVenda\obj\Debug\net5.0-windows\ref\PontoDeVenda.dll
+C:\Users\nelph\OneDrive\Documentos\ADS\4 Semestre\LPL2\WinFORM\PontoDeVenda 1.1\PontoDeVenda\obj\Debug\net5.0-windows\PontoDeVenda.pdb
+C:\Users\nelph\OneDrive\Documentos\ADS\4 Semestre\LPL2\WinFORM\PontoDeVenda 1.1\PontoDeVenda\obj\Debug\net5.0-windows\PontoDeVenda.genruntimeconfig.cache
+C:\Users\nelph\OneDrive\Documentos\ADS\4 Semestre\LPL2\WinFORM\PontoDeVenda 1.1\PontoDeVenda\obj\Debug\net5.0-windows\PontoDeVenda.View.FrmEditClient.resources
+C:\Users\nelph\OneDrive\Documentos\ADS\4 Semestre\LPL2\WinFORM\PontoDeVenda 1.1\PontoDeVenda\obj\Debug\net5.0-windows\PontoDeVenda.View.FrmConsultClient.resources

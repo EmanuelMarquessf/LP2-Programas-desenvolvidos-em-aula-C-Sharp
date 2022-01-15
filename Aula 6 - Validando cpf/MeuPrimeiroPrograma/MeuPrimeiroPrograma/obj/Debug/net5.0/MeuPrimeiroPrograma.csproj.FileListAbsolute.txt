@@ -1,0 +1,16 @@
+C:\Users\nelph\OneDrive\Documentos\ADS\4 Semestre\LPL2\Aula 1 -- Criando Projeto\MeuPrimeiroPrograma\MeuPrimeiroPrograma\bin\Debug\net5.0\MeuPrimeiroPrograma.exe
+C:\Users\nelph\OneDrive\Documentos\ADS\4 Semestre\LPL2\Aula 1 -- Criando Projeto\MeuPrimeiroPrograma\MeuPrimeiroPrograma\bin\Debug\net5.0\MeuPrimeiroPrograma.deps.json
+C:\Users\nelph\OneDrive\Documentos\ADS\4 Semestre\LPL2\Aula 1 -- Criando Projeto\MeuPrimeiroPrograma\MeuPrimeiroPrograma\bin\Debug\net5.0\MeuPrimeiroPrograma.runtimeconfig.json
+C:\Users\nelph\OneDrive\Documentos\ADS\4 Semestre\LPL2\Aula 1 -- Criando Projeto\MeuPrimeiroPrograma\MeuPrimeiroPrograma\bin\Debug\net5.0\MeuPrimeiroPrograma.runtimeconfig.dev.json
+C:\Users\nelph\OneDrive\Documentos\ADS\4 Semestre\LPL2\Aula 1 -- Criando Projeto\MeuPrimeiroPrograma\MeuPrimeiroPrograma\bin\Debug\net5.0\MeuPrimeiroPrograma.dll
+C:\Users\nelph\OneDrive\Documentos\ADS\4 Semestre\LPL2\Aula 1 -- Criando Projeto\MeuPrimeiroPrograma\MeuPrimeiroPrograma\bin\Debug\net5.0\ref\MeuPrimeiroPrograma.dll
+C:\Users\nelph\OneDrive\Documentos\ADS\4 Semestre\LPL2\Aula 1 -- Criando Projeto\MeuPrimeiroPrograma\MeuPrimeiroPrograma\bin\Debug\net5.0\MeuPrimeiroPrograma.pdb
+C:\Users\nelph\OneDrive\Documentos\ADS\4 Semestre\LPL2\Aula 1 -- Criando Projeto\MeuPrimeiroPrograma\MeuPrimeiroPrograma\obj\Debug\net5.0\MeuPrimeiroPrograma.csproj.AssemblyReference.cache
+C:\Users\nelph\OneDrive\Documentos\ADS\4 Semestre\LPL2\Aula 1 -- Criando Projeto\MeuPrimeiroPrograma\MeuPrimeiroPrograma\obj\Debug\net5.0\MeuPrimeiroPrograma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nelph\OneDrive\Documentos\ADS\4 Semestre\LPL2\Aula 1 -- Criando Projeto\MeuPrimeiroPrograma\MeuPrimeiroPrograma\obj\Debug\net5.0\MeuPrimeiroPrograma.AssemblyInfoInputs.cache
+C:\Users\nelph\OneDrive\Documentos\ADS\4 Semestre\LPL2\Aula 1 -- Criando Projeto\MeuPrimeiroPrograma\MeuPrimeiroPrograma\obj\Debug\net5.0\MeuPrimeiroPrograma.AssemblyInfo.cs
+C:\Users\nelph\OneDrive\Documentos\ADS\4 Semestre\LPL2\Aula 1 -- Criando Projeto\MeuPrimeiroPrograma\MeuPrimeiroPrograma\obj\Debug\net5.0\MeuPrimeiroPrograma.csproj.CoreCompileInputs.cache
+C:\Users\nelph\OneDrive\Documentos\ADS\4 Semestre\LPL2\Aula 1 -- Criando Projeto\MeuPrimeiroPrograma\MeuPrimeiroPrograma\obj\Debug\net5.0\MeuPrimeiroPrograma.dll
+C:\Users\nelph\OneDrive\Documentos\ADS\4 Semestre\LPL2\Aula 1 -- Criando Projeto\MeuPrimeiroPrograma\MeuPrimeiroPrograma\obj\Debug\net5.0\ref\MeuPrimeiroPrograma.dll
+C:\Users\nelph\OneDrive\Documentos\ADS\4 Semestre\LPL2\Aula 1 -- Criando Projeto\MeuPrimeiroPrograma\MeuPrimeiroPrograma\obj\Debug\net5.0\MeuPrimeiroPrograma.pdb
+C:\Users\nelph\OneDrive\Documentos\ADS\4 Semestre\LPL2\Aula 1 -- Criando Projeto\MeuPrimeiroPrograma\MeuPrimeiroPrograma\obj\Debug\net5.0\MeuPrimeiroPrograma.genruntimeconfig.cache
